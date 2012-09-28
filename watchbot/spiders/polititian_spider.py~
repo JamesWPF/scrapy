@@ -1,0 +1,1 @@
+from scrapy.spider import BaseSpider
